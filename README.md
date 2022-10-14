@@ -1,4 +1,4 @@
-# RSImage-Matching
+# RSImage-Similarity
 ## 武汉大学遥感学院Matlab课设作业 
 ### `基于图像特征的遥感图像相似匹配`
 ### 图像视觉特征提取算法  
